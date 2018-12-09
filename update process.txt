@@ -1,0 +1,13 @@
+WALLET UPDATE INSTRUCTIONS
+==========================
+
+1. Close wallet
+2. Visit this folder at C:/users/***Your windows username***/appdata(hidden)/roaming/ElyaCoinV2 
+3. Copy wallet.dat file as this file has all your coins in it. Paste this file on desktop or some folder
+4. Delete entire ElyaCoinV2 folder
+5. Delete the ElyaCoinV2-qt.exe file (the wallet executable)
+6. Download the new wallet from http://elya.io
+7. Run the new wallet, then let it sync. Once sync is complete, you should close the wallet.
+8. Now ElyaCoinV2 folder will be created automatically in the computer. You should visit the folder """""C:/users/***Your windows username***/appdata(hidden)/roaming/ElyaCoinV2 
+and then replace the wallet.dat file with your backed up wallet.dat file that has your coins in it.
+9. Open / Run the wallet and start to make new masternode if you have enough coins.
